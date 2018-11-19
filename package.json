@@ -67,6 +67,6 @@
   "dependencies": {
     "osme": "^1.2.4",
     "prop-types": "15.5.10",
-    "react-spring": "^6.0.0"
+    "react-spring": "^5.9.2"
   }
 }
